@@ -1,8 +1,8 @@
 ---
-title: Pages
+title: Blogs
 draft: false
 # Section you want to display
-section: posts
+section: blogs
 # Pages count
 count: 5
 # Options: card, plain and masonry.
